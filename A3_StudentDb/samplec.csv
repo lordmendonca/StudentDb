@@ -1,0 +1,23 @@
+4
+B;100;APT;AUTOMATION;5;1.10.2021;31.3.2022;17:45;19:15
+W;111;HMI;AUTOMATION;2.5;3;14:15;15:45
+B;400;ASDT;EMBEDDED SYSTEMS AND MICROELECTRONICS;2.5;1.10.2021;31.3.2022;10:15;11:45
+W,401;VLSI;EMBEDDED SYSTEMS AND MICROELECTRONICS;5;1;8:30;10:15
+8
+2930;Ross;Geller;7.8.1979;9 Orchid Avenue;64297;New Mexico;Hotel Sand
+3456;Phoebe;Buffey;9.10.1978;1 Park Avenue;64297;New Amsterdam;Hotel Waves
+4357;Monica;Geller;3.4.1981;2 Park Avenue;64296;New Jersey;Hotel Hill
+7869;Chandler;Bing;1.2.1970;1 Park Avenue;64295;New York;Hotel Park
+8934;Joey;Tribbiani;11.12.1980;2 Park Avenue;64297;New London;Hotel Sea-Side
+9678;Rachel;Green-Geller;5.6.1981;9 Orchid Avenue;64297;New Mexico;Hotel Sand
+9679;Clark;Kent;1.1.1975;Eden Park 44;57610;Metropolis;New York State
+9680;Bruce;Wayne;31.12.1970;Hell's Kitchen 67;57611;Gotham;New York State
+2
+9680;401;SS2022;2.0
+9680;400;SS2022;1.6
+1
+4357;400;WS2022;1.3
+3
+9679;400;WS2021;-1
+9679;401;WS2022;1.3
+9679;111;SS2022;2.3
